@@ -12,9 +12,9 @@
 
 ## 🚀 About Me
 
-- 💼 Full-Stack Developer at **Saint-Gobain SEFPRO**, building an internal enterprise web application (Action Plan Tracker) as a **solo developer**
-- 🔧 I work with the **PERN stack** — PostgreSQL, Express, React, Node.js — with **Prisma ORM**
-- 🤖 Previously built a **Refractory Block Rejection Prediction Model** (ML) during my internship, comparing 6 algorithms using the CRISP-DM methodology
+- 💼 Full-Stack Developer at **Saint-Gobain SEFPRO**, building enterprise web applications as a **solo developer**
+- 🔧 I work across the stack — **React, Node.js, Express** with **PostgreSQL & MongoDB**
+- 🤖 Built a **Refractory Block Rejection Prediction Model** (ML) during my internship, comparing 6 algorithms using CRISP-DM
 - 🏆 Competitive programming on **Codeforces** using Python
 - 📊 Exploring **Data Science, ML pipelines, and Power BI dashboards**
 - 🌱 Currently deepening my skills in backend architecture, authentication systems, and database design
@@ -28,49 +28,62 @@
   <img src="https://skillicons.dev/icons?i=react,vite,js,html,css,tailwind,figma" />
 </p>
 
-### Backend
+### Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma" />
 </p>
 
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" /> <img src="https://img.shields.io/badge/bcrypt-338833?style=for-the-badge" /> <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge" /> <img src="https://img.shields.io/badge/Microsoft%20SSO%20(OAuth2)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" /> <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge" /> <img src="https://img.shields.io/badge/Microsoft%20Graph%20API-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" /> <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
 
 ### Data Science & ML
 <p>
   <img src="https://skillicons.dev/icons?i=python,sklearn" />
 </p>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" /> <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" /> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" /> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws" />
 </p>
-
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" /> <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 
 ---
 
-## 💼 What I'm Building
+## 💼 Projects
 
-**🎯 Action Plan Tracker** *(Enterprise Web App — Saint-Gobain SEFPRO)*
-- Full-stack internal tool built solo, end-to-end: requirements → schema design → development
-- 11-table PostgreSQL database designed with Prisma ORM
-- Secure authentication with Microsoft SSO, JWT (httpOnly cookies) & bcrypt
-- Role-based access control (RBAC) architecture
+**🎯 Action Plan Tracker**
+Full-stack productivity app that syncs Microsoft Calendar meetings, summarizes agendas, and turns discussion points into trackable action items.
+`React` `Node.js` `Express` `MongoDB` `Microsoft Graph`
 
-**🤖 Refractory Block Rejection Model** *(ML Internship Project)*
-- Predicted manufacturing block rejection using CRISP-DM methodology
-- Benchmarked 6 algorithms — Gradient Boosting delivered the best performance
-- EDA with heatmaps and rejection-rate analysis on real production data
+**🌱 Kaido**
+A focused productivity and habit-tracking app with a clean React frontend and Node.js backend.
+`React` `Node.js` `Express` `MongoDB`
+
+**🏸 Badminton Court Booking System**
+Full-stack booking platform with dynamic pricing, coach registration, equipment tracking, and an admin dashboard.
+`React` `Express.js` `Node.js` `MongoDB`
+
+**🎬 CineSpot — Movie Booking App**
+Full-stack movie ticketing platform with Stripe payments, multi-session auth via Clerk, and background jobs via Inngest.
+`React` `Node.js` `Tailwind` `Stripe` `Clerk` `Inngest`
 
 ---
 
 ## 🎓 Education
 
-**B.Voc / Degree Program** — DDU Kaushal Kendra, CUSAT *(Cochin University of Science and Technology)*
-- Industry-integrated program with internship at Saint-Gobain SEFPRO
-- Focus areas: Software Development, Data Science & Machine Learning
+- **Full-Stack Development** — NxtWave Disruptive Technologies *(2024 — Ongoing)*
+- **Bachelor of Vocation (B.Voc.)** — Cochin University of Science and Technology *(2023 — 2026)*
+- **Class XII (MPC)** — Jawahar Navodaya Vidyalaya, Palakkad
+- **Class X** — Jawahar Navodaya Vidyalaya, Palakkad
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **First Place** — Entrepreneurship Business Idea Competition, CUSAT *(Feb 2025)*
+- 📜 **Full-Stack Development Certificate** — NxtWave *(2024)*
+- ☁️ **AWS Hands-on Workshop** — NxtWave *(2024)*
+- 🤖 **Generative AI & MCP Workshops** — NxtWave *(2024)*
 
 ---
 
@@ -80,8 +93,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -96,8 +107,6 @@
 </p>
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=2E9EF7&style=for-the-badge)
 
 *"Learning by building real things."*
 
