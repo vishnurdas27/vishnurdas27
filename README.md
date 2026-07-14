@@ -2,7 +2,7 @@
 
 # Hi there, I'm Vishnu 👋
 
-### Full-Stack Developer | PERN Stack | Data Science Enthusiast
+### Full-Stack Developer | PERN Stack | AI ML Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Building+real-world+enterprise+apps;PostgreSQL+%7C+Express+%7C+React+%7C+Node;Machine+Learning+%26+Data+Analytics;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
 
